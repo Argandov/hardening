@@ -35,6 +35,7 @@ Common privacy/security preferences:
 - Manage cookie storage (As needed)
 - Block dangerous content
 - SOCKSv5 / HTTP proxy if needed.
+- Enable DoH (DNS over HTTPS); select a secure DNS server. *Needs more testing*
 
 **About:config**
 
