@@ -64,3 +64,10 @@ Common privacy/security preferences:
 - https://panopticlick.eff.org (Good general browser check analysis)
 - https://browserleaks.com/ (Good for fingerprinting analysis)
 - http://ip-check.info/ (more advanced browser check)
+
+## See also:
+- https://ssd.eff.org/en/module/understanding-and-circumventing-network-censorship
+
+
+
+Sources: Nathan House (StationX), Electronic Frontier Foundation (EFF), Mozilla Foundation.
