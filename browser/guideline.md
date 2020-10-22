@@ -61,5 +61,6 @@ Common privacy/security preferences:
 
 ## 5. Tools for testing browser's fingerprint, headers, DNS leaks, etc.
 - https://ipleak.net/ (Good for DNS leaks and headers check)
+- https://panopticlick.eff.org (Good general browser check analysis)
 - https://browserleaks.com/ (Good for fingerprinting analysis)
 - http://ip-check.info/ (more advanced browser check)
