@@ -33,7 +33,7 @@ Common privacy/security preferences:
 - Manage cookie storage (As needed)
 - Block dangerous content
 - SOCKSv5 / HTTP proxy if needed.
-- Enable DoH (DNS over HTTPS); select a secure DNS server. *Needs more testing*
+- Enable DoH (DNS over HTTPS); select a secure DNS server. *(Needs more testing)*
 
 **About:config**
 
@@ -67,7 +67,7 @@ Common privacy/security preferences:
 
 ## See also:
 - https://ssd.eff.org/en/module/understanding-and-circumventing-network-censorship
+- https://anonymous-proxy-servers.net/en/jondofox.html
 
 
-
-Sources: Nathan House (StationX), Electronic Frontier Foundation (EFF), Mozilla Foundation.
+Sources: Nathan House (StationX), Electronic Frontier Foundation (EFF), Mozilla Foundation, JonDonym.
