@@ -2,9 +2,7 @@
 
 Notes: This was originally intended as a quick personal benchmark, but decided to upload it in case it is useful for someone else. Go ahead with caution and do your research.
 
-The results of this guideline's results render only a casual-use Firefox configuration. If you are in need of more specialized security/anonimity/privacy setup, use Tor/JonDonym, proxies, etc.
-
-Do your own modifications and further research as needed.
+The results of this guideline's results render only a casual-use Firefox configuration. If you have special privacy/anonimity needs, or are concerned about sofisticated attack vectors, then please do not use Firefox (Or use it with other privacy-enhancing services/softwares). Do your own modifications and research as needed.
 
 The purpose of this setup is for Privacy and protection against tracking/fingerprinting and malicious sites. **Not Anonimity**.
 
@@ -15,7 +13,7 @@ The purpose of this setup is for Privacy and protection against tracking/fingerp
 - (Windows) C:\Users\<*username*>\AppData\Roaming\Mozilla\Firefox\Profiles\<*profile_name*>
 - (Linux) /home/<*username*>/
   
-**Custom profiles (Worth to check them out):**
+**Custom, automatic profiles (Worth to check them out):**
 - User.js (https://github.com/arkenfox/user.js).
   - Download user.js file & modify as needed. Examples: 
     - user_pref("intl.accept_languages", "en-US, en");
@@ -23,8 +21,8 @@ The purpose of this setup is for Privacy and protection against tracking/fingerp
   - Save file in a new profiling location > Open profile manager > Create new profile and add the recently created folder.
 
 - Firefox Profilemaker (https://ffprofile.com) 
-  - Guidance provided at "start" click. 
-  - Download profile. Apply to a new profile. 
+  - Guidance provided at "start" click.
+  - Download profile. Apply to a new profile.
  ## 2. Manual Configuration
  
  **About:preferences**
@@ -61,7 +59,7 @@ Common privacy/security preferences:
 - https://duckduckgo.com/
 - https://startpage.com/
 
-## 5. Tools for testing browser's fingerprint, headers, etc.
-- https://ipleak.net/
-- https://browserleaks.com/
-- http://ip-check.info/
+## 5. Tools for testing browser's fingerprint, headers, DNS leaks, etc.
+- https://ipleak.net/ (Good for DNS leaks and headers check)
+- https://browserleaks.com/ (Good for fingerprinting analysis)
+- http://ip-check.info/ (more advanced browser check)
