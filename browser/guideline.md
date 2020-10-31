@@ -2,7 +2,7 @@
 
 Notes: This was originally intended as a quick personal benchmark, but decided to upload it in case it is useful for someone else. Go ahead with caution and do your research.
 
-The results of this guideline's results render only a casual-use Firefox configuration. If you have special privacy/anonimity needs, or are concerned about sofisticated attack vectors, then please do not use Firefox (Or use it with other privacy-enhancing services/softwares). Do your own modifications and research as needed.
+The results of this guidelines render only a casual-use Firefox configuration. If you have special privacy/anonimity needs, or are concerned about sofisticated attack vectors, then please do not use Firefox (Or use it with other privacy-enhancing services/softwares). Do your own modifications and research as needed.
 
 The purpose of this setup is for Privacy and protection against tracking/fingerprinting and malicious sites. **Not Anonimity**.
 
